@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: koo
+Build-Jdk: 9.0.1
+Implementation-Title: web-practice
+Implementation-Version: 1.0
+Implementation-Vendor-Id: net.slipp
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/web-practice
+ /
+Created-By: Maven Integration for Eclipse
+
